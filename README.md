@@ -15,8 +15,7 @@
 - 🖥️ Computer Science student — **BSCS-4A**, Reg. No. `242201035`
 - 🏫 **Institute of Space Technology — KICSIT, Kahuta Campus**
 - 📚 Currently deep in: **COAL (Assembly)**, **Applied Physics**, **Advanced Database Management Systems**, **Computer Architecture**
-- ⚽ Building a faceless YouTube Shorts channel around football content
-- 🌱 Always tinkering with something between assignments and side projects
+- 🌱 Always tinkering with something between projects and coding
 
 <br>
 
